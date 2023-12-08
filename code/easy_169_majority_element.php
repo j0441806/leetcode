@@ -37,5 +37,6 @@ $array = [2,2,1,1,1,2,2];
 (new Solution())->majorityElement($array);
 
 /*
+Reference
 https://stackoverflow.com/questions/4325200/find-the-majority-element-in-array
 */
